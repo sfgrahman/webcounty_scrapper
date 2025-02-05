@@ -1,0 +1,5 @@
+chromedriver-py
+openpyxl
+pandas
+beautifulsoup4
+selenium
